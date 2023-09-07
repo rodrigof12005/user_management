@@ -43,7 +43,7 @@
                                     </div>
                                     <div class="form-outline mb-4 w-50 p-3">
                                         <label class="form-label" for="email">Email <b class="text-danger">*</b></label>
-                                        <input type="email" name="email" id="email" class="form-control" placeholder="Informe seu email" value="rodrigoduartef1@hotmail.com" required />
+                                        <input type="email" name="email" id="email" class="form-control" placeholder="Informe seu email" required />
 
                                     </div>
                                     <div class="form-outline mb-4 w-50 p-3">
